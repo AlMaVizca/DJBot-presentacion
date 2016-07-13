@@ -93,8 +93,7 @@ Perfiles técnicos
 ----
 
 :data-rotate-y: 90
-:data-y: r10
-:data-x: r0
+
 
 Desarrollador de software
 =========================
@@ -221,6 +220,40 @@ Contenedores
      
      7 min
 
+
+----
+
+:data-x: r0
+:data-y: r1600	 
+:class: djbot centered
+
+
+DJBot
+=====
+	
+.. image:: ./img/batuta.gif
+
+Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de computadoras.
+	   
+.. note::
+   * Facil instalacion
+   * Facil uso
+     
+   5 min
+
+----
+
+DEMO 1
+======
+
+Veamos una instalación de DJBot
+-------------------------------
+
+* **Escenario:**
+    * Bajar la imagen de DJBot desde la web
+    * Ponerlo a correr en un contenedor Docker
+
+
 ----
 
 Orquestación
@@ -240,26 +273,6 @@ Por “orquestar” se entiende ‘la organización de distintos instrumentos y 
 
 .. note::
    - idempotente
-     
-   5 min
-
-----
-
-:data-x: r0
-:data-y: r1600	 
-:class: djbot centered
-
-
-DJBot
-=====
-	
-.. image:: ./img/batuta.gif
-
-Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de computadoras.
-	   
-.. note::
-   * Facil instalacion
-   * Facil uso
      
    5 min
 
@@ -306,10 +319,18 @@ Métodos de conexión
 
 ----
 
-Utilización
-===========
+DEMO 2
+======
 
+Veamos DJBot en acción
+----------------------
 
+* **Escenario:**
+    * DJBot
+    * Laboratorio con 8 máquinas
+    * Instalaremos vim en todas ellas
+
+ 
 .. note::
    10 min
 
