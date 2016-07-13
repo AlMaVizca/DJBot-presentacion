@@ -35,14 +35,14 @@ hechas orquesta
 Agenda
 ======
 
-* `Historia académica`_
+* `Motivación`_
 * `Perfiles técnicos`_
 * DevOps_
 * Virtualización_
 * Orquestación_
 * DJBot_
 
-.. _`Historia académica`: ./index.html#/step-3
+.. _`Motivación`: ./index.html#/step-3
 .. _`Perfiles técnicos`: ./index.html#/step-4
 .. _DevOps: ./index.html#/step-5
 .. _Virtualización: ./index.html#/step-6
@@ -51,7 +51,7 @@ Agenda
 
 
 .. note::
-   - Historia
+   - Motivación
    - Perfiles tecnicos
    - DevOps
    - Virtualizacion
@@ -60,8 +60,8 @@ Agenda
    
 ----
 
-Historia académica
-==================
+Motivación
+==========
 
 - Ingresé a estudiar en el año 2006
 - Trabajé en el proyecto Lihuen de 2008 a 2014
@@ -220,8 +220,8 @@ Contenedores
      
      7 min
 
-
 ----
+
 
 :data-x: r0
 :data-y: r1600	 
@@ -233,8 +233,11 @@ DJBot
 	
 .. image:: ./img/batuta.gif
 
-Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de computadoras.
-	   
+Aplicación web, de `uso libre`_, basada en Ansible, para “orquestar” salas de computadoras.
+
+
+.. _`uso libre`: https://github.com/krahser/DJBot
+
 .. note::
    * Facil instalacion
    * Facil uso
@@ -278,7 +281,6 @@ Por “orquestar” se entiende ‘la organización de distintos instrumentos y 
 
 ----
 
-:class: centered
 
 Composición
 ===========
@@ -304,16 +306,7 @@ Métodos de conexión
 
   * Redireccionamiento de puertos
 
-- Consideración a futuro
-
-  * `Autenticación descentralizada mediante criptografía asimétrica`_, propuesta por Benencia, Raúl 
-    
-
-.. _`Autenticación descentralizada mediante criptografía asimétrica`: http://sedici.unlp.edu.ar/handle/10915/47080
-    
 .. note::
-   
-
    
    5 min
 
@@ -339,7 +332,6 @@ Veamos DJBot en acción
 
 :data-x: r-2500
 :data-y: r-3000
-:data-scale: 10
 :data-rotate-z: 0
 :data-rotate-x: 0
 :data-rotate-y: 0
@@ -347,8 +339,18 @@ Veamos DJBot en acción
 
 
 
+Conclusiones
+============
+
+----
+
+:data-scale: 10
+:data-x: r-1600
+:data-y: r0	 
+
 ¿Preguntas?
 ===========
+
 
 .. note::
    duracion total: 50m
