@@ -67,6 +67,8 @@ Motivación
 
 - Ingresé a estudiar en el año 2006
 - Trabajé en el proyecto Lihuen de 2008 a 2014
+- Usuario y desarrollador de sofware libre
+- Participante de distintos grupos de usuarios, llegando a ser organizador de FLISOL 2010 en La Plata 
 
 .. note::
    - Ingresante 2006
