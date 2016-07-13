@@ -160,6 +160,7 @@ Administrador de sistemas
 
 .. note::
    - Contraccion de Development y Operations
+   - Comunidad que surgio en 2008
 
    6 min
 
@@ -171,6 +172,16 @@ Virtualización
 ==============
 
 Virtualización es la creación, a través de software, de una versión virtual de algún recurso tecnológico, como puede ser una plataforma de hardware, un sistema operativo, un dispositivo de almacenamiento u otros recursos de red.
+
+.. note::
+   - Reducción de los costes de espacio y consumo
+   - Aislamiento
+   - Administración global centralizada y simplificada
+   - Balanceo dinámico de máquinas virtuales entre los servidores físicos que componen el pool de recursos
+   - Green IT virtualizacion 35%
+   - Desconectar en periodo de inactividad 25%
+   
+   4 min
 
 ----
 
@@ -194,9 +205,10 @@ Contenedores
 .. note::
    - LXC 2008
    - Docker 2014
+   - Microservicios     
    - CoreOS
      
-     10 min
+     7 min
 
 ----
 
@@ -216,7 +228,8 @@ Por “orquestar” se entiende ‘la organización de distintos instrumentos y 
 .. _Otter: http://inedo.com/otter
 
 .. note::
-   
+   - idempotente
+     
    5 min
 
 ----
@@ -231,7 +244,6 @@ DJBot
 =====
 	
 .. image:: ./img/batuta.gif
-   :align: left
 
 Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de computadoras
 	   
@@ -243,30 +255,43 @@ Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de 
 
 ----
 
+:class: centered
+
 Composición
 ===========
 
-Ansible
-
-SQLAlchemy
-
-Flask
-
-React
-
+.. image:: ./img/tecnologias.jpg
+   
 .. note::
    - integracion de componentes
+   - Ansible
+   - SQLAlchemy
+   - Flask
+   - React
 
    5 min
 
 ----
 
-Seguridad
-=========
+Metodos de conexión
+===================
 
+- HTTPS
+- SSH
 
+  * Redireccionamiento de puertos
 
+- Consideración a futuro
+
+  * `Autenticación descentralizada mediante criptografía asimétrica`_, propuesta por Benencia, Raúl 
+    
+
+.. _`Autenticación descentralizada mediante criptografía asimétrica`: http://sedici.unlp.edu.ar/handle/10915/47080
+    
 .. note::
+   
+
+   
    5 min
 
 ----
