@@ -59,8 +59,8 @@ Agenda
    
 ----
 
-Historia académica
-==================
+Motivación
+==========
 
 - Ingresé a estudiar en el año 2006
 - Trabajé en el proyecto Lihuen de 2008 a 2014
@@ -281,16 +281,7 @@ Métodos de conexión
 
   * Redireccionamiento de puertos
 
-- Consideración a futuro
-
-  * `Autenticación descentralizada mediante criptografía asimétrica`_, propuesta por Benencia, Raúl 
-    
-
-.. _`Autenticación descentralizada mediante criptografía asimétrica`: http://sedici.unlp.edu.ar/handle/10915/47080
-    
 .. note::
-   
-
    
    5 min
 
