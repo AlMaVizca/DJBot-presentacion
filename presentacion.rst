@@ -35,14 +35,14 @@ hechas orquesta
 Agenda
 ======
 
-* `Historia académica`_
+* `Motivación`_
 * `Perfiles técnicos`_
 * DevOps_
 * Virtualización_
 * Orquestación_
 * DJBot_
 
-.. _`Historia académica`: ./index.html#/step-3
+.. _`Motivación`: ./index.html#/step-3
 .. _`Perfiles técnicos`: ./index.html#/step-4
 .. _DevOps: ./index.html#/step-5
 .. _Virtualización: ./index.html#/step-6
@@ -51,7 +51,7 @@ Agenda
 
 
 .. note::
-   - Historia
+   - Motivación
    - Perfiles tecnicos
    - DevOps
    - Virtualizacion
@@ -255,8 +255,11 @@ DJBot
 	
 .. image:: ./img/batuta.gif
 
-Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de computadoras.
-	   
+Aplicación web, de `uso libre`_, basada en Ansible, para “orquestar” salas de computadoras.
+
+
+.. _`uso libre`: https://github.com/krahser/DJBot
+
 .. note::
    * Facil instalacion
    * Facil uso
