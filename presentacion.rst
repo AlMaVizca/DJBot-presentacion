@@ -18,6 +18,8 @@ hechas orquesta
 
 .. image:: ./img/unlp_escudo.png
 
+Autor: Aldo María Vizcaino
+--------------------------
 
 .. note::
 
