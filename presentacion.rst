@@ -146,8 +146,8 @@ Administrador de sistemas
 ----
 
 :data-rotate-y: 0
-:data-y: r0
-:data-x: r0
+:data-y: r-1610
+:data-x: r1600
    
 *DevOps*
 ========
@@ -166,6 +166,7 @@ Administrador de sistemas
 
 ----
 
+:data-y: r0
 :data-x: r1600
 
 Virtualización
@@ -234,9 +235,8 @@ Por “orquestar” se entiende ‘la organización de distintos instrumentos y 
 
 ----
 
-:data-z: r1000
 :data-x: r0
-:data-y: r1000	 
+:data-y: r1600	 
 :class: djbot centered
 
 
