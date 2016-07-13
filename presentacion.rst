@@ -171,7 +171,7 @@ Administrador de sistemas
 Virtualización
 ==============
 
-Virtualización es la creación, a través de software, de una versión virtual de algún recurso tecnológico, como puede ser una plataforma de hardware, un sistema operativo, un dispositivo de almacenamiento u otros recursos de red.
+Virtualización es la creación, a través de software, de una **versión virtual de algún recurso tecnológico**, como puede ser una plataforma de hardware, un sistema operativo, un dispositivo de almacenamiento u otros recursos de red.
 
 .. note::
    - Reducción de los costes de espacio y consumo
@@ -245,7 +245,7 @@ DJBot
 	
 .. image:: ./img/batuta.gif
 
-Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de computadoras
+Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de computadoras.
 	   
 .. note::
    * Facil instalacion
@@ -273,7 +273,7 @@ Composición
 
 ----
 
-Metodos de conexión
+Métodos de conexión
 ===================
 
 - HTTPS
