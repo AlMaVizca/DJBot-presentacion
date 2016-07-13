@@ -5,11 +5,14 @@
 
 :class: centered
 
-DJBot a la batuta
-=================
+DJBot a la batuta:
+==================
 
-Salas de computadoras hechas orquesta
--------------------------------------
+Salas de computadoras
+---------------------
+
+hechas orquesta
+---------------
 
 
 .. image:: ./img/unlp_escudo.png
@@ -17,10 +20,11 @@ Salas de computadoras hechas orquesta
 
 .. note::
 
-   - Agradecer al jurado por posibilitar esta defensa de tesina.
+   - Al jurado por la buena predisposicion para coordinar esta exposición.
    - A mis directores por la colaboración
    - A mi compañera por su paciencia y dedicacion
-   - A mis padres por concederme vida
+   - A mis padres por regalarme la vida
+   - A mis familiares y amigos por aguantar mis locuras
    - A todos los que comparten enseñanzas positivas
    
    1m
@@ -30,15 +34,15 @@ Salas de computadoras hechas orquesta
 Agenda
 ======
 
-* `Historia academica`_
-* `Perfiles tecnicos`_
+* `Historia académica`_
+* `Perfiles técnicos`_
 * DevOps_
 * Virtualización_
 * Orquestación_
 * DJBot_
 
-.. _`Historia academica`: ./index.html#/step-3
-.. _`Perfiles tecnicos`: ./index.html#/step-4
+.. _`Historia académica`: ./index.html#/step-3
+.. _`Perfiles técnicos`: ./index.html#/step-4
 .. _DevOps: ./index.html#/step-5
 .. _Virtualización: ./index.html#/step-6
 .. _Orquestación: ./index.html#/step-7
@@ -55,32 +59,36 @@ Agenda
    
 ----
 
-Historia academica
+Historia académica
 ==================
 
-- Ingrese en 2006
-- Trabaje en el proyecto Lihuen de 2008 a 2014
+- Ingresé a estudiar en el año 2006
+- Trabajé en el proyecto Lihuen de 2008 a 2014
 
 .. note::
    - Ingresante 2006
    - Linti (2008-2014)
+   - Base de este trabajo
    - Responsabilidades dentro de Lihuen
 
    1m
      
 ----
 
-Perfiles tecnicos
+Perfiles técnicos
 =================
 
-* Administrador de sistemas
 * Desarrollador de software
+* Administrador de sistemas
 
 .. note::
-   - ¨Se cayo el sistema¨
+   - Programador implementa funcionalidad
+   - Desarrollador diseña la estructura de clases 
+   - Programadores y desarrolladores por igual
 
-   3 min
+   1/2 min
 
+  
 ----
 
 :data-rotate-y: 90
@@ -90,7 +98,17 @@ Perfiles tecnicos
 Desarrollador de software
 =========================
 
-- Especialista
+- Trabajo en equipo
+- Diseño
+- Pruebas
+- Mantenimiento
+
+
+.. note::
+   - 
+
+   1 min
+
   
 ----
 
@@ -100,9 +118,31 @@ Desarrollador de software
 Administrador de sistemas
 =========================
 
-- Conocimiento de redes
-- Conocimiento de sistemas operativos
+- Objetivo:
 
+  * Garantizar el tiempo de actividad
+
+  * Rendimiento
+
+  * Uso de recursos
+
+  * Seguridad
+
+- Conocimiento de:
+  
+  * Redes
+    
+  * Sistemas operativos
+
+
+
+.. note::
+   - No existe un solo camino para ser un administrador de sistemas
+   - Perfil 
+
+   1 min
+
+    
 ----
 
 :data-rotate-y: 0
@@ -130,7 +170,7 @@ Administrador de sistemas
 Virtualización
 ==============
 
-Virtualización es la creación a través de software de una versión virtual de algún recurso tecnológico, como puede ser una plataforma de hardware, un sistema operativo, un dispositivo de almacenamiento u otros recursos de red.
+Virtualización es la creación, a través de software, de una versión virtual de algún recurso tecnológico, como puede ser una plataforma de hardware, un sistema operativo, un dispositivo de almacenamiento u otros recursos de red.
 
 ----
 
@@ -163,6 +203,8 @@ Contenedores
 Orquestación
 ============
 
+Por “orquestar” se entiende ‘la organización de distintos instrumentos y la definición de la interacción entre ellos, de manera que vibren al unísono’.
+
 - Ansible_
 - Cheff_
 - Puppet_
@@ -180,21 +222,23 @@ Orquestación
 ----
 
 :data-z: r1000
-:data-r: r0
-:class: djbot
-	 
-	 
+:data-x: r0
+:data-y: r1000	 
+:class: djbot centered
+
+
 DJBot
 =====
-
+	
 .. image:: ./img/batuta.gif
-   :target: http://yohagomusica.blogspot.com.ar/2008/09/orquesta-batuta.html
+   :align: left
 
-Objetivo en desarrollo
-
+Aplicación web, de uso libre, basada en Ansible, para “orquestar” salas de computadoras
+	   
 .. note::
-   Facil instalacion
-   Facil uso
+   * Facil instalacion
+   * Facil uso
+     
    5 min
 
 ----
@@ -237,9 +281,9 @@ Utilización
 
 ----
 
-:data-x: 0
-:data-y: r1500
-:data-scale: 20
+:data-x: r-2500
+:data-y: r-3000
+:data-scale: 10
 :data-rotate-z: 0
 :data-rotate-x: 0
 :data-rotate-y: 0
