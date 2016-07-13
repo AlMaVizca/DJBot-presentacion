@@ -41,15 +41,17 @@ Agenda
 * `Perfiles técnicos`_
 * DevOps_
 * Virtualización_
-* Orquestación_
 * DJBot_
+* Orquestación_
+  
 
 .. _`Motivación`: ./index.html#/step-3
 .. _`Perfiles técnicos`: ./index.html#/step-4
-.. _DevOps: ./index.html#/step-5
-.. _Virtualización: ./index.html#/step-6
-.. _Orquestación: ./index.html#/step-7
-.. _DJBot: ./index.html#/step-8
+.. _DevOps: ./index.html#/step-7
+.. _Virtualización: ./index.html#/step-8
+.. _DJBot: ./index.html#/step-11
+.. _Orquestación: ./index.html#/step-13
+
 
 
 .. note::
@@ -208,6 +210,8 @@ Contenedores
 - Kubernetes_
 - Panamax_
 
+
+  
 .. _LXC: https://linuxcontainers.org/
 .. _Docker: https://www.docker.com/
 .. _CoreOS: https://coreos.com/
@@ -260,6 +264,12 @@ Veamos una instalación de DJBot
     * Bajar la imagen de DJBot desde la web
     * Ponerlo a correr en un contenedor Docker
 
+    
+.. code:: bash
+	  
+   sudo docker run -d --name DJBot -e VIRTUAL_HOST=djbot.local \
+   -e TZ=America/Argentina/Buenos_Aires -p 127.0.0.1:8080:80 \
+   --restart always krahser/djbot
 
 ----
 
@@ -325,9 +335,14 @@ Veamos DJBot en acción
 
 * **Escenario:**
     * DJBot
-    * Laboratorio con 8 máquinas
+    * Laboratorio con 5 máquinas
     * Instalaremos vim en todas ellas
 
+.. code:: bash
+
+   curl -L https://goo.gl/zmjPLv | sudo bash -
+   
+	  
  
 .. note::
    10 min
@@ -347,10 +362,21 @@ Veamos DJBot en acción
 Conclusiones
 ============
 
+- Objetivo teórico
+  
+- Objetivo práctico
+
+.. note::
+   - abanico de herramientas que existen para la automatización de tareas,
+     y despertar el interés académico en estas tecnologías nuevas.
+   - posibilidad de mejorar una solución propuesta en 2013, con la intención de
+     ofrecer más y mejores funcionalidades, y de elevar el nivel de abstracción
+     en beneficio del usuario final.
+
 ----
 
-:data-scale: 10
-:data-x: r-1600
+:data-scale: 20
+:data-x: r-6400
 :data-y: r0	 
 
 ¿Preguntas?
