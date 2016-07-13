@@ -281,6 +281,7 @@ Por “orquestar” se entiende ‘la organización de distintos instrumentos y 
 
 ----
 
+:class: centered
 
 Composición
 ===========
