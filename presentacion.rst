@@ -1,4 +1,5 @@
-.. title: DJBot a la batuta
+:title: DJBot a la batuta
+:author: Aldo Vizcaino
 :css: css/tesis.css
 
 ----
@@ -183,6 +184,15 @@ Virtualización es la creación, a través de software, de una **versión virtua
    - Desconectar en periodo de inactividad 25%
    
    4 min
+
+----
+
+Mecanismos
+==========
+
+.. image:: img/maquinas-virtuales-660x595.jpg
+  :width: 900px
+
 
 ----
 
