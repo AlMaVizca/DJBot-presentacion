@@ -308,7 +308,6 @@ Utilización
 
 :data-x: r-2500
 :data-y: r-3000
-:data-scale: 10
 :data-rotate-z: 0
 :data-rotate-x: 0
 :data-rotate-y: 0
@@ -316,8 +315,18 @@ Utilización
 
 
 
+Conclusiones
+============
+
+----
+
+:data-scale: 10
+:data-x: r-1600
+:data-y: r0	 
+
 ¿Preguntas?
 ===========
+
 
 .. note::
    duracion total: 50m
